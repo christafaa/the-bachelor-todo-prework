@@ -1,5 +1,5 @@
 def get_first_name_of_season_winner(data, season)
-  data.each do ||
+  data.each do |season_name, season_data|
 end
 
 def get_contestant_name(data, occupation)
